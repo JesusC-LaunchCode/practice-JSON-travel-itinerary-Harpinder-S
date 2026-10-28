@@ -1,0 +1,42 @@
+{
+    "tripName": "Harp's Adventures",
+    "Traveler": {
+        "name": "Harpinder Singh",
+        "contact": {
+            "email": "harp@launchcode.com",
+            "phone": "123-456-7890"
+        }
+    },
+    "destinations": [
+        {
+            "Location": "Japan",
+                "arrivalDate": "2025-10-05",
+                "departureDate": "2025-10-30",
+                "activities": [
+                    {
+                        "title": "Eat noodles",
+                        "time": "10:00 AM"
+                    },
+                    {
+                        "title": "Go to Mount Fuji",
+                        "time": "12:00 PM"
+                    }
+                ]
+                },
+        {
+            "location": "Canada",
+                "arrivalDate": "2026-02-01",
+                "departureDate": "2026-02-15",
+                "activities": [
+                    {
+                        "title": "Attend wedding",
+                        "time": "06:00 PM"
+                    },
+                    {
+                        "title": "Visit Kelowna",
+                        "time": "07:00 AM"
+                    }
+                ]
+                }
+    ]
+}
